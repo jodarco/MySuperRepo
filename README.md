@@ -1,1 +1,1 @@
-# changes today sKL lsfgf
+# ls cd rm mkdir today sKL lsfgf
